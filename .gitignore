@@ -1,6 +1,9 @@
 # compiled output
 /dist
 /node_modules
+/.agents
+/.claude
+/.windsurf
 
 # Logs
 logs
